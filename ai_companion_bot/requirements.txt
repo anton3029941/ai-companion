@@ -1,0 +1,7 @@
+discord.py[voice]
+py-cord[voice]
+requests
+python-dotenv
+edge-tts
+faster-whisper
+numpy
